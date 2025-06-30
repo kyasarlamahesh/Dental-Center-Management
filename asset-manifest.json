@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dental-Center-Management/static/css/main.bbfa3c9a.css",
+    "main.js": "/Dental-Center-Management/static/js/main.f8af9c9c.js",
+    "static/js/453.7fe80592.chunk.js": "/Dental-Center-Management/static/js/453.7fe80592.chunk.js",
+    "index.html": "/Dental-Center-Management/index.html",
+    "main.bbfa3c9a.css.map": "/Dental-Center-Management/static/css/main.bbfa3c9a.css.map",
+    "main.f8af9c9c.js.map": "/Dental-Center-Management/static/js/main.f8af9c9c.js.map",
+    "453.7fe80592.chunk.js.map": "/Dental-Center-Management/static/js/453.7fe80592.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbfa3c9a.css",
+    "static/js/main.f8af9c9c.js"
+  ]
+}
